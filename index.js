@@ -4,13 +4,13 @@ function myAnimal() {
   return animal
 }
 
-function yourAnimal(animal) {
+function yourAnimal() {
   return "animal"
 }
 
-function add2(n) {
+function add2() {
   const two = 2
-  return parseInt(two) + 2
+  return two + 2
 }
 
 function funkyFunction() {
