@@ -8,9 +8,9 @@ function yourAnimal(animal) {
   return "cat"
 }
 
-function add2() {
+function add2(n) {
   const two = 2
-  return two + 2
+  return parseInt(n) + 2
 }
 
 function funkyFunction() {
